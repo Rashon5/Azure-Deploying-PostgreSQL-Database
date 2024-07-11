@@ -15,7 +15,7 @@ You've recently joined a traditional on-premises team as a Cloud Specialist. The
      - Add firewall rule: All public access allowed, or select public IP
        - This can be accessed later under 'Settings > Networking'
 
-2. **Download pgAdmin (Must use v4-8.9)**
+2. **Download pgAdmin (Must use v4-8.9)** https://www.pgadmin.org/download/pgadmin-4-windows/
    - Create password
    - In pgAdmin, navigate to Servers > Register > Server
      - **General**: Copy `Server name` from Azure, paste in pgAdmin
